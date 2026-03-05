@@ -43,6 +43,3 @@ def WinStar(player, dealer):
 - **Aces Handling:** Automatically calculates if an Ace should be valued at 1 or 11.
 - **High Performance:** The `Testbench` can process 1,000,000 games in seconds.
 - **Modular Design:** Easy to swap the game engine or the bot logic without breaking the other.
----
-
-Would you like me to help you refine the `deckSum` logic to handle "Soft" hands (Aces) more effectively for your next version?
